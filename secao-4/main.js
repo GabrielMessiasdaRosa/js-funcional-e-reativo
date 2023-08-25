@@ -1,0 +1,1 @@
+console.log("Seção 4: Principios de programação funcional");

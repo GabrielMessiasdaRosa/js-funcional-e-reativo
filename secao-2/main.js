@@ -1,0 +1,1 @@
+console.log("Seção 2: Funções");
